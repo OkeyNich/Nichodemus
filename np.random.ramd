@@ -1,0 +1,2 @@
+# a 2×3 array with random values
+np.random.random((2,3))
